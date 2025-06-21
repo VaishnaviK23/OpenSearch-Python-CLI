@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "electronics",
+      "price": 25.5,
+      "description": "A smooth and ergonomic wireless mouse."
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Keyboard",
+      "category": "electronics",
+      "price": 45.0,
+      "description": "Compact and quiet keyboard with Bluetooth."
+    },
+    {
+      "id": 3,
+      "name": "Office Chair",
+      "category": "furniture",
+      "price": 150.0,
+      "description": "Comfortable office chair with lumbar support."
+    }
+  ]
